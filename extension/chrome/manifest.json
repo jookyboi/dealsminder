@@ -1,7 +1,7 @@
 {
     "name": "DealsMinder",
     "version": "1.0",
-    "description": "Sync Groupon and LivingSocial expiration dates to Google Calendar.",
+    "description": "Add events for Groupon and LivingSocial voucher expiration dates to Google Calendar.",
     "browser_action": {
         "default_icon": "icons/icon_48.png",
         "default_title": "Toggle DealsMinder On/Off"
